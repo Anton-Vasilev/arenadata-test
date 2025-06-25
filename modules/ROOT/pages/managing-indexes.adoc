@@ -1,7 +1,7 @@
 = Управление индексами
 :description: Управление индексами в OpenSearch
 :source-language: http
-:url-repo:
+:url-repo: https://github.com/Anton-Vasilev/arenadata-test
 
 Вы можете индексировать данные с помощью OpenSearch REST API.
 Для этого существуют два интерфейса: API индекса для добавления данных по одному элементу и API `_bulk` для пакетного добавления сразу нескольких элементов данных.
