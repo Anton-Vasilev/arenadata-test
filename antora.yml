@@ -1,0 +1,5 @@
+name: project-name
+version: ~
+title: Тестовое для Arenadata
+nav:
+- modules/ROOT/nav.adoc

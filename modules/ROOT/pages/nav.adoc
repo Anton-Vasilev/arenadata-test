@@ -1,0 +1,2 @@
+* xref:managing-indexes.adoc[Управление индексами]
+* xref:recommendations.adoc[Предложения по улучшению]
